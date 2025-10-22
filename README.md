@@ -1,4 +1,4 @@
-# User Management API Auth Cloudinary
+# User Management API — RESTful CRUD with Authentication, Security, and File Upload
 
 ![Node.js](https://img.shields.io/badge/Node.js-v18+-green?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-5.x-blue?style=for-the-badge&logo=express)
@@ -127,3 +127,4 @@ Berikut adalah daftar endpoint utama yang tersedia:
 | `POST`   | `/users/avatar`              | Mengunggah foto profil (avatar)             | User Self (Requires JWT)| Form-data: `file` (tipe File)                                                                        |
 
 ---
+
